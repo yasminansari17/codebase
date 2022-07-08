@@ -61,4 +61,4 @@ string rtrim(const string &str) {
     return s;
 }
 
-// this is condition code
+// this is conditional 
